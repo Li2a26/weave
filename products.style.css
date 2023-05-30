@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;  
+}
+
+.icon {
+    width:30px;
+    height:30px;
+}
+body {
+    background-color: rgb(244, 236, 236);
+}
+
+.productCard {
+    background-color: rgb(244, 236, 236);
+    border-radius: 10px;
+}
+

@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial,;
+    color: rgb(181, 128, 75); 
+    
+
+}
+body {
+    background-color: rgb(244, 236, 236);
+}
+
+.zen {
+    color: rgb(181, 128, 75);
+}
+.lisa {
+
+   justify-content: center;
+   align-items: center;
+   width: 1000px;
+    /* height: 100vh; */
+    font-family: Arial, Helvetica, sans-serif ;
+} 
+
+.display-3 {
+    color: rgb(181, 128, 75);
+    
+}
+.landing-img{
+    width: 500px;
+    
+}
+
+
+.icon {
+    width:30px;
+    height:30px;
+}
+
+
+
